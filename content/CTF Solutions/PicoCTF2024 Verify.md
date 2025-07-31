@@ -2,6 +2,7 @@
 title: PicoCTF2024 Verify
 draft: false
 tags:
+  - Forensics
 ---
 ## Description
 
