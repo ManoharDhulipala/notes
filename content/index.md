@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Home Page
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello! Here is a collection of notes I have taken focusing on CTF's and crackmes
